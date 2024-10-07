@@ -1,0 +1,65 @@
+Body {
+    background-color: rgba(207, 200, 191, 0.753);
+
+}
+.main {
+    background-color: rgb(221, 217, 204);
+    width: 400px;
+    height: 460px;
+
+    margin-top: 30px;
+    border-radius: 25px;
+    box-shadow: 0 0px 25px rgb(223, 201, 169) ;
+}
+.i1 {
+    position: absolute;
+    left: 642px;
+    top: 70px;
+    font-size: 1.88em;
+}
+.img1{
+    position: absolute;
+    left: 425px;
+    top: 365px;
+}
+.i2 { 
+    position: absolute;
+    left: 510px;
+    top: 225px;
+    font-size: 1.1em;
+}
+
+.img2 {
+    position: absolute;
+    left: 405px;
+    top: 145px; 
+}   
+
+.img3 {
+    position: absolute;
+    left: 575px;
+    top: 380px; 
+} 
+
+.img4 {
+    position: absolute;
+    left: 535px;    
+    top: 318px; 
+} 
+
+.img5 {
+    position: absolute;
+    left: 440px;    
+    top: 70px; 
+} 
+
+.img6 {
+    position: absolute;
+    left: 440px;    
+    top: 70px; 
+} 
+.i4 {
+    position: absolute;
+    left: 440px;
+    top: 490px;
+}
